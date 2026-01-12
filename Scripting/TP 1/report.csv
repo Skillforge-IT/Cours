@@ -1,0 +1,6 @@
+target,type,ping
+8.8.8.8,IP,OK
+1.1.1.1,IP,OK
+example.com,DNS,OK
+localhost,DNS,OK
+192.0.2.123,IP,KO

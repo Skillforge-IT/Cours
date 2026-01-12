@@ -1,0 +1,6 @@
+8.8.8.8
+1.1.1.1
+example.com
+localhost
+192.0.2.123
+not_a_real_host.invalid

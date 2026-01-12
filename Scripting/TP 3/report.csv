@@ -1,0 +1,7 @@
+target,target_type,dns_resolved_ip,ping,tcp_22,tcp_443,ip_country,ip_org,ip_asn,api_status,notes
+8.8.8.8,IP,,OK,CLOSED,OPEN,,,,KO,HTTP 429
+1.1.1.1,IP,,OK,CLOSED,OPEN,,,,KO,HTTP 429
+example.com,DNS,104.18.27.120,OK,CLOSED,OPEN,,,,KO,HTTP 429
+localhost,DNS,127.0.0.1,OK,CLOSED,CLOSED,,,,KO,HTTP 429
+192.0.2.123,IP,,KO,CLOSED,CLOSED,,,,KO,HTTP 429
+not_a_real_host.invalid,DNS,,KO,CLOSED,CLOSED,,,,ERROR,DNS failed | No IP for API

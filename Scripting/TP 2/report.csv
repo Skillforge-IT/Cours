@@ -1,0 +1,7 @@
+target,target_type,ip_valid,dns_resolved_ip,ping,tcp_22,tcp_443,notes
+8.8.8.8,IP,true,,OK,CLOSED,OPEN,
+1.1.1.1,IP,true,,OK,CLOSED,OPEN,
+example.com,DNS,na,104.18.26.120,OK,CLOSED,OPEN,
+localhost,DNS,na,127.0.0.1,OK,CLOSED,CLOSED,
+192.0.2.123,IP,true,,KO,CLOSED,CLOSED,
+not_a_real_host.invalid,DNS,na,,KO,CLOSED,CLOSED,DNS failed
